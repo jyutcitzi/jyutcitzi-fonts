@@ -1,7 +1,7 @@
 # jyutcitzi-fonts
 Fonts for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese.
 
-Without theses font, the Jyutcitzi characters cannot be properly rendered. In terms of fonts, PMingLiU (Regular), SourceHanSerifTC (all weights) and SourceHanSansHC (all weights) have all been augmented with Jyutcitzi characters. SourceHanSansHWHC (all weights) has also been included in the set of fonts, though it only contains Jyutcitzi characters.
+Without theses font, the Jyutcitzi characters cannot be properly rendered on a computer or internet browser. In terms of fonts, PMingLiU (Regular), SourceHanSerifTC (all weights) and SourceHanSansHC (all weights) have all been augmented with Jyutcitzi characters. SourceHanSansHWHC (all weights) has also been included in the set of fonts, though it only contains Jyutcitzi characters.
 
 1. [Install Font on Computer](#install-font-on-computer)  
 2. [Install Font on Browser](#install-font-on-browser)  
