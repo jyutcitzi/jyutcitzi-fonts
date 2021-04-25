@@ -21,3 +21,6 @@ For Windows: Right-click on the TTF file and select install
 Firefox > Preferences > Language and Appearance > Fonts and Colours
 
 More at https://support.mozilla.org/en-US/kb/change-fonts-and-colors-websites-use
+
+### Safari
+TODO
