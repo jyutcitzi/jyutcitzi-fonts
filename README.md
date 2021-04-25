@@ -3,6 +3,11 @@ Fonts for realizing the Honzi-Jyutcitzi mixed script in Hong Kong Cantonese.
 
 Without theses font, the Jyutcitzi characters cannot be properly rendered. In terms of fonts, PMingLiU (Regular), SourceHanSerifTC (all weights) and SourceHanSansHC (all weights) have all been augmented with Jyutcitzi characters. SourceHanSansHWHC (all weights) has also been included in the set of fonts, though it only contains Jyutcitzi characters.
 
+1. [Install Font on Computer](#install-font-on-computer)  
+2. [Install Font on Browser](#install-font-on-browser)  
+
+![Fonts](https://github.com/jyutcitzi/jyutcitzi-fonts/blob/c0b4055c1072b2b98be0a43f04ce1b2973c3747a/images/fonts.png)
+
 ## Install Font on Computer
 For Mac: Open the TTF file using Font Book, and click “install”
 For Windows: Right-click on the TTF file and select install
