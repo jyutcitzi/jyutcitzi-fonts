@@ -9,7 +9,7 @@ For Windows: Right-click on the TTF file and select install
 
 ## Install Font on Browser
 ### Chromium Browsers (i.e. Google Chrome, Brave, ...):
-1. Open [brave://settings/fonts](brave://settings/fonts)
+1. Open [chrome://settings/fonts](chrome://settings/fonts)
 3. Set the Standard and Sans-serif font to JyutcitziWithSourceHanSansHC, and the Serif font to JyutcitziWithSourceHanSerifTC
 
 ### Firefox
